@@ -1,8 +1,6 @@
 # Ignorar arquivos especificos
 *.json
+*.txt
 
 # Ignorar pastas
 logs
-
-# Ignorar arquivos
-/teste/*.txt

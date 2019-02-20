@@ -5,3 +5,4 @@
 # Ignorar pastas
 logs
 teste/*.txt
+/teste/*.txt

@@ -3,3 +3,6 @@
 
 # Ignorar pastas
 logs
+
+# Ignorar arquivos
+teste/Base2.txt
